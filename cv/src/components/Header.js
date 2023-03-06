@@ -39,10 +39,9 @@ export const Header=()=>{
                                 Languages
                             </a>
                             <ul className="dropdown-menu">
-                                <li><a className="dropdown-item" href="https://zhykharievanatolii.github.io/">English</a></li>
-                                <li>English</li>
-                                <li><a className="dropdown-item" href="https://github.com/ZhykharievAnatolii/reactWorks">Ukrainian</a></li>
-                                <li><a className="dropdown-item" href="https://github.com/ZhykharievAnatolii/Client-Server-App">Russian</a></li>
+                                <li><a className="dropdown-item" href="#">English- upper-intermediate level</a></li>
+                                <li><a className="dropdown-item" href="#">Ukrainian- native</a></li>
+                                <li><a className="dropdown-item" href="#">Russian- native</a></li>
                             </ul>
                         </li>
                     </ul>
