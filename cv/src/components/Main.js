@@ -1,7 +1,7 @@
 import React from "react";
-import './index.css';
-import Photo from './assets/myfoto.jpg'
-import Certificate from './assets/certificatemarkup.png'
+import '../index.css';
+import Photo from '../assets/myfoto.jpg'
+import Certificate from '../assets/certificatemarkup.png'
 export const Main=()=>{
     return(
         <div className="">

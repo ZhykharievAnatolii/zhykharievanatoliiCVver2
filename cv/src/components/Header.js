@@ -1,5 +1,5 @@
 import React from "react";
-import './index.css'
+import '../index.css'
 export const Header=()=>{
     return(<nav className="navbar navbar-expand-lg bg-body-tertiary">
             <div className="container-fluid">
@@ -30,7 +30,7 @@ export const Header=()=>{
                                 <li><a className="dropdown-item" href="https://github.com/ZhykharievAnatolii/ClockApplication">Clock Application</a></li>
                                 <li><a className="dropdown-item" href="https://github.com/ZhykharievAnatolii/adaptiveproject">Markup adaptive project</a></li>
                                 <li><a className="dropdown-item" href="https://github.com/ZhykharievAnatolii/chevronnavmenuproject">Chevron markup project</a></li>
-                                <li><a className="dropdown-item" href="mailto:nekijt87@gmail.com">Whant to collaborate?</a></li>
+                                <li><a className="dropdown-item" href="mailto:nekijt87@gmail.com">Want to collaborate?</a></li>
                             </ul>
                         </li>
                     </ul>
