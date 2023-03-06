@@ -5,7 +5,7 @@ import Certificate from '../assets/certificatemarkup.png'
 import Certificate2 from '../assets/certificatefrontendpro.png'
 export const Main=()=>{
     return(
-        <div className="">
+        <div className="row">
             <div className="card" style={{"width": "18rem"}}>
                 <img src={Photo} className="card-img-top" alt="my photo"/>
                 <div className="card-body">
@@ -21,15 +21,15 @@ export const Main=()=>{
                     </p>
                 </div>
             </div>
-            <div className="card" style={{"width": "18rem"}}>
+            <div className="card col-md-4 col-md-pull-4" style={{"width": "18rem"}}>
                 <img src={Certificate} className="card-img-top" alt="certificate"/>
                 <img src={Certificate2} className="card-img-top" alt="certificate"/>
-                <div className="card-body">
+                <div className="card-body ">
                     <p className="card-text">
                         I have already finished a course about
                         Html, CSS, Bootstrap, PostCSS, Git, GitHub,
                         JavaScript, DOM, Listeners, Promises,
-                        Fastify,Backend,PostgresQL,Auth libs, Webpack
+                        Fastify,Backend,PostgresQL,Auth libs, Webpack, React
                         and have knowledge about the structure and how it works.</p>
                 </div>
             </div>

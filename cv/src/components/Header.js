@@ -33,6 +33,18 @@ export const Header=()=>{
                                 <li><a className="dropdown-item" href="mailto:nekijt87@gmail.com">Want to collaborate?</a></li>
                             </ul>
                         </li>
+                        <li className="nav-item dropdown">
+                            <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                               aria-expanded="false">
+                                Languages
+                            </a>
+                            <ul className="dropdown-menu">
+                                <li><a className="dropdown-item" href="https://zhykharievanatolii.github.io/">English</a></li>
+                                <li>English</li>
+                                <li><a className="dropdown-item" href="https://github.com/ZhykharievAnatolii/reactWorks">Ukrainian</a></li>
+                                <li><a className="dropdown-item" href="https://github.com/ZhykharievAnatolii/Client-Server-App">Russian</a></li>
+                            </ul>
+                        </li>
                     </ul>
                 </div>
             </div>
