@@ -23,7 +23,7 @@ export const Header=()=>{
                                 My works
                             </a>
                             <ul className="dropdown-menu">
-                                <li><a className="dropdown-item" href="https://zhykharievanatolii.github.io/">Markup portfolio project</a></li>
+                                <li><a className="dropdown-item" href="https://github.com/ZhykharievAnatolii/ZhykharievAnatolii-simple-portfolio/">Markup portfolio project</a></li>
                                 <li><a className="dropdown-item" href="https://github.com/ZhykharievAnatolii/Fine-Client">Fine-Client App</a></li>
                                 <li><a className="dropdown-item" href="https://github.com/ZhykharievAnatolii/reactWorks">React works</a></li>
                                 <li><a className="dropdown-item" href="https://github.com/ZhykharievAnatolii/Client-Server-App">Client-Server App</a></li>
