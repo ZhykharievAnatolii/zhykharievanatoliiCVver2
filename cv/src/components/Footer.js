@@ -13,6 +13,7 @@ export const Footer=()=>{
                     <a href="https://github.com/ZhykharievAnatolii" className="btn btn-primary m-md-4 bg-dark">Link to my GitHub page</a>
                     <a href="mailto:nekijt87@gmail.com" className="btn btn-primary m-md-4 bg-dark">email me</a>
                     <a href="tel:+30634726870" className="btn btn-primary m-md-4 bg-dark">call me or send a message</a>
+                    <a href="https://discord.com/" className="btn btn-primary m-md-4 bg-dark">Discord account:ZhykharievAnatolii#9144</a>
                 </div>
             </div>
             <div className="card-footer text-muted">
