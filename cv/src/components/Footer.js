@@ -17,7 +17,7 @@ export const Footer=()=>{
                 </div>
             </div>
             <div className="card-footer text-muted">
-                2 days ago
+                @Zhykhariev Anatolii
             </div>
         </div>
     )
